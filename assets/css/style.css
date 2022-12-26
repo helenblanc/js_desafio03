@@ -1,0 +1,21 @@
+
+div {
+    height: 200px;
+    width: 200px;
+}
+
+div .orange{
+    background-color: orange;
+}
+
+div .blue{
+    background-color: blue;
+}
+
+div .blue-violet{
+    background-color: blueviolet;
+}
+
+div .brown{
+    background-color: brown;
+}
